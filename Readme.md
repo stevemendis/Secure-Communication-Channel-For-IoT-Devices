@@ -141,10 +141,10 @@ The functions of the project are as follows :
 <li> Tracking payment status and generation of defaulters </li>
 <li> Support query </li>
 <li> Secure transmission of data between devices and server by encryption and authenticating the data
-<li>Prevention of malicious data entering system using [[Cerberus](https://docs.python-cerberus.org/en/stable/)]
+<li>Prevention of malicious data entering system using [Cerberus](https://docs.python-cerberus.org/en/stable/)]
 </li>
 <li> Sanitisation of data through forms </li>
-<li> Use of flask-limiter for preventing DoS [[Flask-Limiter](https://flask-limiter.readthedocs.io/en/stable/)]</li>
+<li> Use of flask-limiter for preventing DoS [Flask-Limiter](https://flask-limiter.readthedocs.io/en/stable/)]</li>
 </ul>
 
 ## Tools and Technology Overview :
